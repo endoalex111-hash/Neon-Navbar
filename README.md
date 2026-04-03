@@ -73,7 +73,7 @@ A sleek glassmorphism navbar with glowing neon effects and interactive animation
 
 ## 📄 License
 
-This project is open-source and available under the MIT License.
+This project is licensed under the MIT License.
 
 ---
 
