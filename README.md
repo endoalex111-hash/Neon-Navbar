@@ -73,7 +73,8 @@ A sleek glassmorphism navbar with glowing neon effects and interactive animation
 
 ## 📄 License
 
-This project is licensed under the CC BY-NC 4.0 License.
+This project is licensed under a Custom Non-Commercial License (NC-1.0).  
+Commercial use is strictly prohibited without permission.
 
 ---
 
